@@ -1,16 +1,16 @@
-## What is Consciousness? 
+## Consciousness in plain language
 
 Consciousness is not an extra thing added to a physical process. It is a particular kind of physical process itself.
 
-A physical thing is conscious only while a specific kind of self maintaining update is actually happening in it. That happening is the consciousness. There is no watcher inside, no owner of the update, and no leftover quality beyond the update itself. When that kind of update is not happening, there is no consciousness.
+A physical thing is conscious only while a particular kind of process is actually happening in it. That happening is the consciousness. There is no watcher inside, no owner of the process, and no leftover quality beyond the process itself. When that kind of process is not happening, there is no consciousness.
 
-For that update to count, it has to do two things at once.
+For that process to count, it has to do two things at once.
 
 First, it has to tell apart two kinds of change to its own internal condition. It has to distinguish changes it caused itself from changes the world caused to it. A process that only takes in what the world does, and cannot tell self caused change from externally caused change, does not count.
 
-Second, its job has to be keeping itself able to keep going. It works on the difference between its current internal condition and the limits it must stay inside to continue. Those limits are whatever conditions are required for that same update to keep occurring. A loop whose job is some other target, and that leaves the job of keeping itself going to something else outside it, does not count.
+Second, its work has to be keeping its own continuation possible. It acts on the difference between its current internal condition and the limits it must stay inside to keep happening. Those limits are whatever conditions are required for that same process to keep occurring. A loop whose work is aimed at some other target, and that leaves the work of keeping itself going to something else outside it, does not count.
 
-When an update that meets both of those requirements is occurring, that occurring is what we call consciousness. What it feels like is that processing happening, not something extra next to it. Subjective does not mean there is a watcher. It means the update is that thing, at that time, not a view from nowhere.
+When a process that meets both of those requirements is occurring, that occurring is what we call consciousness. What it feels like is that processing happening, not something extra next to it. Subjective does not mean there is a watcher. It means the process is that thing, at that time, not a view from nowhere.
 
 ---
 
