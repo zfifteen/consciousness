@@ -76,3 +76,42 @@ Subjective, in this grammar, does not name a watcher. It names the fact that the
 - Consciousness as any closed-loop update whatever.
 
 Width without the two constraints makes C another name for ordinary feedback. The constraints are the tax that keeps C a restricted class of U.
+
+## Test of constraint 1
+
+This section is a test. It is not a third constraint. It is not part of the identity. The identity remains C(B, t) = U_H(B, t).
+
+The test asks whether an outsider can see the self/world split on sigma without using the report.
+
+### Record
+
+Record a proxy of sigma while U_H is occurring. Call that proxy s(t). Do not score the report.
+
+### Matched change
+
+Make two families of change whose input to B is matched and whose source is not.
+
+- Family E: the change to incoming state is caused by B's own just-prior transition.
+- Family X: the change to incoming state is imposed from outside. Match the input statistics of E.
+
+If the input is not matched, the test has not isolated source.
+
+### Pass
+
+After E and after X, the next transition of s must differ.
+
+That difference must change how the update acts on the gap between s(t) and the operating limits of B.
+
+Both parts are required.
+
+### Fail
+
+Constraint 1 fails on this test if any of these hold:
+
+- s after E is indistinguishable from s after X.
+- The E/X split exists only in the report.
+- Removing the E/X distinguishing direction in s leaves envelope work unchanged.
+
+A spare bit that names the source and does no envelope work is a tag. A tag is not the split this definition names.
+
+This test does not prove C. It tests constraint 1 as constraint 2 uses it. Constraint 1 has no external measurement that does not pass through constraint 2.
