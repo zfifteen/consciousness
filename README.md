@@ -112,6 +112,6 @@ Constraint 1 fails on this test if any of these hold:
 - The E/X split exists only in the report.
 - Removing the E/X distinguishing direction in s leaves envelope work unchanged.
 
-An extra mark that names the source and does no envelope work is a tag. A tag is not the split this definition names.
+An extra mark that names the source and does no envelope work is not the split this definition names.
 
 This test does not prove C. It tests constraint 1 as constraint 2 uses it. Constraint 1 has no external measurement that does not pass through constraint 2.
