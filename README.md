@@ -34,7 +34,7 @@ The update splits self-generated change from environmental input:
 Delta sigma_self    versus    Delta sigma_ext
 ```
 
-A process that only takes in the world, and does not mark its own change as its own change, fails this constraint.
+A process that only takes in the world, and does not distinguish self-generated change to sigma(t) from externally caused change, fails this constraint.
 
 ### 2. Envelope-object closure
 
