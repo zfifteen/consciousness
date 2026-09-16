@@ -1,24 +1,24 @@
 ## What is Consciousness?
 
-Consciousness is not an extra thing added to a physical process. It is a particular kind of physical process itself.
+C names one physical update: U_H. It does not name waking, sensory scenes, cognitive access, linguistic report, or being conscious of an object. Those are ordinary state updates U. They are physical. They are not C.
 
-A physical thing is conscious only while a particular kind of process is actually happening in it. That happening is the consciousness. There is no watcher inside, no owner of the process, and no leftover quality beyond the process itself. When that kind of process is not happening, there is no consciousness.
+A bound physical system B is C at time t only while U_H is occurring in B. That occurring is C. There is no watcher, no owner, and no second item next to the update. When U_H is not occurring, C(B, t) = 0.
 
-For that process to count, it has to do two things at once.
+For an update to be U_H, it has to do two things at once.
 
-First, it has to tell apart two kinds of change to its own internal condition. It has to distinguish changes it caused itself from changes the world caused to it. A process that only takes in what the world does, and cannot tell self caused change from externally caused change, does not count.
+First, it has to tell apart two kinds of change to its own internal condition. It has to distinguish changes it caused itself from changes the world caused to it. A process that only takes in what the world does, and cannot tell self-caused change from externally caused change, does not count.
 
-Second, its work has to be keeping its own continuation possible. It acts on the difference between its current internal condition and the limits it must stay inside to keep happening. Those limits are whatever conditions are required for that same process to keep occurring. A loop whose work is aimed at some other target, and that leaves the work of keeping itself going to something else outside it, does not count.
+Second, its work has to be keeping its own continuation possible. It acts on the difference between its current internal condition and the limits it must stay inside to keep happening. Those limits are the conditions required for that same process to keep occurring. A loop whose work is aimed at some other target, and that leaves the work of keeping itself going to something else outside it, does not count.
 
-When a process that meets both of those requirements is occurring, that occurring is what we call consciousness. What it feels like is that processing happening, not something extra next to it. Subjective does not mean there is a watcher. It means the process is that thing, at that time, not a view from nowhere.
+When an update that meets both requirements is occurring in a named B, that occurring is C.
 
 ---
 
-## Definition 
+## Definition
 
-Consciousness is a physical identity, not a second item next to a physical process.
+C is a physical identity, not a second item next to a physical process.
 
-A bound system B is conscious at time t when, and only when, U_H is occurring in B. That update is the consciousness. There is no spectator, no leftover quality, and no owner of the update.
+A bound system B is C at time t when, and only when, U_H is occurring in B. That update is C. There is no spectator and no owner of the update.
 
 ```
 C(B, t) = U_H(B, t)
@@ -30,9 +30,11 @@ C(B, t) = 0
 
 when U_H is not occurring.
 
+This identity does not track waking, sensory scenes, cognitive access, linguistic report, or intentionality. Those are ordinary U.
+
 ## Terms
 
-- B is a physical substrate with defined operating limits.
+- B is a physical particular named before the test. It has continuation conditions.
 - sigma(t) is the bound internal state of B at time t.
 - U_H is a physical state transition of sigma that satisfies both constraints below.
 
@@ -62,20 +64,15 @@ H:    sigma(t)  ->  operating limits of B
 
 Those limits are the conditions required for U_H to keep occurring. A loop whose object is some other target, and that leaves the envelope of B to an external regulator, fails this constraint.
 
-## Identity claims
-
-Qualia is the processing. There is no extra character next to the update.
-
-Subjective, in this grammar, does not name a watcher. It names the fact that the update is B at t, not a view from nowhere.
-
 ## What this definition refuses
 
 - A spectator in the process.
-- A leftover feel that remains after the process is named.
-- Consciousness as a stored property of B that is not updating.
-- Consciousness as any closed-loop update whatever.
+- A leftover item that remains after the process is named.
+- C as a stored property of B that is not updating.
+- C as any closed-loop update whatever.
+- C as waking, scene, report, or being conscious of an object.
 
-Width without the two constraints makes C another name for ordinary feedback. The constraints are the tax that keeps C a restricted class of U.
+Width without the two constraints makes C another name for ordinary feedback. The constraints keep C a restricted class of U.
 
 ## Test of constraint 1
 
