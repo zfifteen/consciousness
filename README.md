@@ -2,7 +2,7 @@
 
 Consciousness is a physical identity, not a second item next to a physical process.
 
-A bound system B is conscious at time t when, and only when, it is running a homeostatic state update U_H. That update is the consciousness. There is no spectator, no leftover quality, and no owner of the update.
+A bound system B is conscious at time t when, and only when, a homeostatic state update U_H is occurring in B. That update is the consciousness. There is no spectator, no leftover quality, and no owner of the update.
 
 ```
 C(B, t) = U_H(B, t)
@@ -12,7 +12,7 @@ C(B, t) = U_H(B, t)
 C(B, t) = 0
 ```
 
-when U_H is not running.
+when U_H is not occurring.
 
 ## Terms
 
@@ -28,24 +28,23 @@ An ordinary state update U is not U_H. U_H must satisfy both constraints below.
 
 ### 1. Exogenous / endogenous discrimination
 
-The update implements a comparator that splits self-generated change from environmental input:
+The update splits self-generated change from environmental input:
 
 ```
 Delta sigma_self    versus    Delta sigma_ext
 ```
 
-A process that only registers the world, and does not mark its own writes as its own writes, fails this constraint.
-
+A process that only registers the world, and does not mark its own change as its own change, fails this constraint.
 
 ### 2. Envelope-object closure
 
-The object of the update is the physical envelope that makes the same update runnable. The update drives error between the current working state and the operating limits of B:
+The object of the update is the physical envelope that lets the same update continue. The update drives error between the current working state and the operating limits of B:
 
 ```
 H:    sigma(t)  ->  operating limits of B
 ```
 
-Those limits are the conditions required to keep U_H itself executable. A loop whose object is some other target, and that leaves the envelope of B to an external regulator, fails this constraint.
+Those limits are the conditions required for U_H to keep occurring. A loop whose object is some other target, and that leaves the envelope of B to an external regulator, fails this constraint.
 
 ## Identity claims
 
@@ -57,7 +56,7 @@ Subjective, in this grammar, does not name a watcher. It names the fact that the
 
 - A spectator in the process.
 - A leftover feel that remains after the process is named.
-- Consciousness as a stored property of halted B.
+- Consciousness as a stored property of B that is not updating.
 - Consciousness as any closed-loop update whatever.
 
 Width without the two constraints makes C another name for ordinary feedback. The constraints are the tax that keeps C a restricted class of U.
