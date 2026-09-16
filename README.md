@@ -36,6 +36,7 @@ Delta sigma_self    versus    Delta sigma_ext
 
 A process that only registers the world, and does not mark its own writes as its own writes, fails this constraint.
 
+
 ### 2. Envelope-object closure
 
 The object of the update is the physical envelope that makes the same update runnable. The update drives error between the current working state and the operating limits of B:
