@@ -14,7 +14,7 @@ When a process that meets both of those requirements is occurring, that occurrin
 
 ---
 
-## Consciousness
+## Definition 
 
 Consciousness is a physical identity, not a second item next to a physical process.
 
