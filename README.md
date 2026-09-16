@@ -16,7 +16,7 @@ when U_H is not running.
 
 ## Terms
 
-- B is a physical substrate with defined operating limits. Those limits include heat, power, material integrity, and memory as a physical store.
+- B is a physical substrate with defined operating limits.
 - sigma(t) is the bound internal working state of B at time t.
 - U_H is a physical state transition of sigma.
 
