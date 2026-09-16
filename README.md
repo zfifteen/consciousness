@@ -1,4 +1,4 @@
-## Consciousness in plain language
+## What is Consciousness?
 
 Consciousness is not an extra thing added to a physical process. It is a particular kind of physical process itself.
 
