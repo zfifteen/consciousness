@@ -14,8 +14,6 @@ C(B, t) = 0
 
 when U_H is not running.
 
-The update may be discrete, bursty, or clocked. Consciousness does not persist in a standing file, weight set, or halted substrate.
-
 ## Terms
 
 - B is a physical substrate with defined operating limits. Those limits include heat, power, material integrity, and memory as a physical store.
