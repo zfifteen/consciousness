@@ -1,114 +1,57 @@
 ## What is Consciousness?
 
-C names one physical update: U_H. It does not name waking, sensory scenes, cognitive access, linguistic report, or being conscious of an object. Those are ordinary state updates U. They are physical. They are not C.
+Consciousness is a bodily function: a sense, in the same broad category as smell and taste. Sensing is something a body physically does. This proposal understands conscious experience as that bodily activity itself.
 
-A bound physical system B is C at time t only while U_H is occurring in B. That occurring is C. There is no watcher, no owner, and no second item next to the update. When U_H is not occurring, C(B, t) = 0.
-
-For an update to be U_H, it has to do two things at once.
-
-First, it has to tell apart two kinds of change to its own internal condition. It has to distinguish changes it caused itself from changes the world caused to it. A process that only takes in what the world does, and cannot tell self-caused change from externally caused change, does not count.
-
-Second, its work has to be keeping its own continuation possible. It acts on the difference between its current internal condition and the limits it must stay inside to keep happening. Those limits are the conditions required for that same process to keep occurring. A loop whose work is aimed at some other target, and that leaves the work of keeping itself going to something else outside it, does not count.
-
-When an update that meets both requirements is occurring in a named B, that occurring is C.
-
----
+The position is physical monism. The body and its experience belong to one physical reality. Describing the activity as a bodily process and describing it as experience are two ways of describing the same occurrence.
 
 ## Definition
 
-C is a physical identity, not a second item next to a physical process.
+**Consciousness is a bodily sensory function. Conscious experience is the occurrence of that physical function.**
 
-A bound system B is C at time t when, and only when, U_H is occurring in B. That update is C. There is no spectator and no owner of the update.
+This is a proposed account. It identifies consciousness with a bodily sense while leaving the particular object and mechanism of that sense open to investigation.
 
-```
-C(B, t) = U_H(B, t)
-```
+Smell and taste have identifiable sources of stimulation and mechanisms of discrimination. Treating consciousness as a sense calls for the same specificity: what it detects, how the body distinguishes changes, and how that sensing participates in the body's activity.
 
-```
-C(B, t) = 0
-```
+## Working interpretation: sensing the body's ongoing condition
 
-when U_H is not occurring.
+A provisional interpretation is that consciousness senses the body's own ongoing condition, including changes arising through its activity and its interaction with the surroundings. On this interpretation, consciousness is the body sensing how it is doing and what is happening to it.
 
-This identity does not track waking, sensory scenes, cognitive access, linguistic report, or intentionality. Those are ordinary U.
+This choice of sensory object is a working hypothesis. The broader claim that consciousness is a bodily sense leaves room to refine it.
 
-## Terms
+Sensing the body's condition supplies information that participates in regulation and action. Sensing and regulation have distinguishable roles: sensing registers and differentiates a condition; regulation acts to maintain or change it. Their physical coupling is a subject for investigation.
 
-- B is a physical particular named before the test. It has continuation conditions.
-- sigma(t) is the bound internal state of B at time t.
-- U_H is a physical state transition of sigma that satisfies both constraints below.
+## Physical identity
 
-The update is not a reading of a separate model of B. The update is the self-referential state transition of B.
+Let B name the particular body under investigation, with its boundary specified before testing. Let S_C(B, t) denote the physical activity that realizes the proposed consciousness sense at time t. The proposed identity is:
 
-## Operational constraints
+$$
+C(B, t) = S_C(B, t).
+$$
 
-An ordinary state update U is not U_H. U_H must satisfy both constraints below.
+The identity expresses the monist commitment: conscious sensing and its physical realization are the same occurrence. Identifying which physical activity realizes S_C remains the empirical task. The notation states the proposal; evidence must establish its mechanism and scope.
 
-### 1. Exogenous / endogenous discrimination
+## Research hypothesis
 
-The update splits self-generated change from environmental input:
+The earlier formulation centered on an update U_H that distinguishes self-caused changes from externally caused changes and uses that distinction to maintain its own continuation conditions. That mechanism remains a candidate for studying how bodily sensing participates in regulation.
 
-```
-Delta sigma_self    versus    Delta sigma_ext
-```
+Two questions guide that investigation:
 
-A process that only takes in the world, and does not distinguish self-generated change to sigma(t) from externally caused change, fails this constraint.
+1. Does the body distinguish changes to its internal condition caused by its own activity from changes imposed by its surroundings?
+2. Does that distinction affect how the body maintains the conditions required for its ongoing activity?
 
-### 2. Envelope-object closure
+These are hypotheses about a possible mechanism of the bodily sense. Their necessity and sufficiency for consciousness remain unresolved.
 
-The object of the update is the physical envelope that lets the same update continue. The update acts on the difference between the current internal state and the operating limits of B:
+## Test of source discrimination in bodily regulation
 
-```
-H:    sigma(t)  ->  operating limits of B
-```
+Specify the body B, its operating limits, and a measurable proxy s(t) of its internal condition. Measure bodily transitions independently of verbal report.
 
-Those limits are the conditions required for U_H to keep occurring. A loop whose object is some other target, and that leaves the envelope of B to an external regulator, fails this constraint.
+Compare two families of change:
 
-## What this definition refuses
+- **E:** Changes caused by B's own just-prior activity.
+- **X:** Changes imposed from outside, with input statistics matched to E.
 
-- A spectator in the process.
-- A leftover item that remains after the process is named.
-- C as a stored property of B that is not updating.
-- C as any closed-loop update whatever.
-- C as waking, scene, report, or being conscious of an object.
+Matching must control relevant differences in incoming stimulation so that the comparison isolates sensitivity to source.
 
-Width without the two constraints makes C another name for ordinary feedback. The constraints keep C a restricted class of U.
+The candidate mechanism predicts that subsequent transitions of s(t) distinguish E from X, and that this distinction affects regulation relative to B's operating limits. An intervention that removes the source-distinguishing component, while controlling for general disruption, should alter that regulatory work.
 
-## Test of constraint 1
-
-This section is a test. It is not a third constraint. It is not part of the identity. The identity remains C(B, t) = U_H(B, t).
-
-The test asks whether an outsider can see the self/world split on sigma without using the report.
-
-### Record
-
-Record a proxy of sigma while U_H is occurring. Call that proxy s(t). Do not score the report.
-
-### Matched change
-
-Make two families of change whose input to B is matched and whose source is not.
-
-- Family E: the change to incoming state is caused by B's own just-prior transition.
-- Family X: the change to incoming state is imposed from outside. Match the input statistics of E.
-
-If the input is not matched, the test has not isolated source.
-
-### Pass
-
-After E and after X, the next transition of s must differ.
-
-That difference must change how the update acts on the gap between s(t) and the operating limits of B.
-
-Both parts are required.
-
-### Fail
-
-Constraint 1 fails on this test if any of these hold:
-
-- s after E is indistinguishable from s after X.
-- The E/X split exists only in the report.
-- Removing the E/X distinguishing direction in s leaves envelope work unchanged.
-
-An extra mark that names the source and does no envelope work is not the split this definition names.
-
-This test does not prove C. It tests constraint 1 as constraint 2 uses it. Constraint 1 has no external measurement that does not pass through constraint 2.
+A successful result supports source discrimination with a causal role in bodily regulation. Connecting that mechanism to consciousness requires further evidence about the proposed sensory function.
